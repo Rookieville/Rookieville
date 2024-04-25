@@ -1,5 +1,5 @@
 # 👋 Hi There, I'm Richard:
-I am a passionate Full Stack & Mobile Developer with a flair for creating captivating digital experiences. With a deep-rooted interest in game development and art, I thrive on blending creativity with technology to bring ideas to life. When I'm not coding, you'll often find me exploring new games and their mechanics, sketching, or diving into the latest tech trends. Let's connect and embark on an exciting journey of innovation together!
+I am a passionate Full Stack Web & Mobile Developer with a flair for creating captivating digital experiences. With a deep-rooted interest in game development and art, I thrive on blending creativity with technology to bring ideas to life. When I'm not coding, you'll often find me exploring new games and their mechanics, sketching, or diving into the latest tech trends. Let's connect and embark on an exciting journey of innovation together!
 
 
 ## 🌐 Socials:
